@@ -1,0 +1,3 @@
+[submodule "segan"]
+	path = segan
+	url = https://github.com/santi-pdp/segan
